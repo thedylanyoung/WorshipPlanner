@@ -1,0 +1,9 @@
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/bin/Debug/netcoreapp2.1/WorshipPlanner.Data.deps.json
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/bin/Debug/netcoreapp2.1/WorshipPlanner.Data.dll
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/bin/Debug/netcoreapp2.1/WorshipPlanner.Data.pdb
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.csproj.CoreCompileInputs.cache
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.AssemblyInfoInputs.cache
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.AssemblyInfo.cs
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.dll
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.pdb
+/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj/Debug/netcoreapp2.1/WorshipPlanner.Data.csprojAssemblyReference.cache

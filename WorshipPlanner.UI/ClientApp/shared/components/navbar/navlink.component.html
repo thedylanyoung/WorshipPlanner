@@ -1,0 +1,9 @@
+<ng-template [ngIf]="hasClaim">
+    <li [routerLinkActive]="['link-active']" class="nav-item" [class.d-none]="hideOnMobile" *ngIf="navMenu == undefined || !navMenu.showDropdown; else showDropdown">
+        <a [routerLink]="route" class="nav-link" [class.selected]="isSelected">{{ linkTitle }}</a>
+    </li>
+</ng-template>
+
+<ng-template #showDropdown>
+    <a class="dropdown-item d-lg-block" [class.d-none]="hideOnMobile" [routerLink]="route">{{ linkTitle }}</a>
+</ng-template>

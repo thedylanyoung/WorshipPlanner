@@ -1,0 +1,8 @@
+<li class="nav-item dropdown d-lg-block" [class.d-none]="hideOnMobile" *ngIf="showDropdown">
+    <a class="nav-link dropdown-toggle" [class.selected]="isSelected" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        {{ menuTitle }}
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        <ng-content></ng-content>
+    </div>
+</li>

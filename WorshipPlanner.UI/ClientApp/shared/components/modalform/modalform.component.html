@@ -1,0 +1,19 @@
+<div class="modal modal-form container-fluid" [class.modal-hidden]="!showModal">
+        <div class="modal-content mx-auto p-0" [class.col-9]="!isAutoSize">
+            <div class="modal-header">
+                <div class="modal-title">
+                    <ng-content select="[form-header]"></ng-content>
+                </div>
+            </div>
+            <div class="modal-body">
+                <ng-content select="[form-body]"></ng-content>
+            </div>
+            <!-- <hr class="w-100"> -->
+            <div class="modal-footer">
+                <button *ngIf="!hideOk" type="submit" [disabled]="disabledOk" class="btn btn-sm btn-primary pull-right modal-button" (click)="ok()">{{ confirmButtonText ? confirmButtonText : "OK" }}</button>
+                <button *ngIf="!hideCancel" type="submit" [disabled]="disabledCancel" class="btn btn-sm btn-secondary pull-right modal-button" (click)="cancel()">{{ cancelButtonText ? cancelButtonText : "Cancel" }}</button>
+            </div>
+        </div>
+</div>
+
+<div class="modal-background modal-form-background" [class.modal-hidden]="!showModal"></div>
