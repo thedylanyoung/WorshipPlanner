@@ -9,7 +9,6 @@ namespace WorshipPlanner.UI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class ValuesController : ControllerBase
     {
         // GET api/values

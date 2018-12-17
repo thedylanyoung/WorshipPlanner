@@ -4917,11 +4917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/WorshipPlanner.Data.csproj",
+      "projectUniqueName": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Data/WorshipPlanner.Data.csproj",
       "projectName": "WorshipPlanner.Data",
-      "projectPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/WorshipPlanner.Data.csproj",
+      "projectPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Data/WorshipPlanner.Data.csproj",
       "packagesPath": "/Users/dylanyoung/.nuget/packages/",
-      "outputPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/obj",
+      "outputPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Data/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

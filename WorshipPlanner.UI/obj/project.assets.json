@@ -11544,11 +11544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.UI/WorshipPlanner.UI.csproj",
+      "projectUniqueName": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.UI/WorshipPlanner.UI.csproj",
       "projectName": "WorshipPlanner.UI",
-      "projectPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.UI/WorshipPlanner.UI.csproj",
+      "projectPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.UI/WorshipPlanner.UI.csproj",
       "packagesPath": "/Users/dylanyoung/.nuget/packages/",
-      "outputPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.UI/obj",
+      "outputPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.UI/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11565,11 +11565,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/WorshipPlanner.Data.csproj": {
-              "projectPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Data/WorshipPlanner.Data.csproj"
+            "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Data/WorshipPlanner.Data.csproj": {
+              "projectPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Data/WorshipPlanner.Data.csproj"
             },
-            "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Shared/WorshipPlanner.Shared.csproj": {
-              "projectPath": "/Users/dylanyoung/Desktop/WorshipPlanner/WorshipPlanner.Shared/WorshipPlanner.Shared.csproj"
+            "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Shared/WorshipPlanner.Shared.csproj": {
+              "projectPath": "/Users/dylanyoung/Desktop/GitHub Projects/thedylanyoung/WorshipPlanner.git/WorshipPlanner.Shared/WorshipPlanner.Shared.csproj"
             }
           }
         }
