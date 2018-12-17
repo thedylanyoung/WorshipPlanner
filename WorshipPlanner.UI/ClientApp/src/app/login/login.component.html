@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-md-6 offset-md-3">
+    <form #loginForm="ngForm" (submit)="onLogin()">
+      <div class="form-group">
+        <label for="userNameInput">UserName:</label>
+        <input class="form-control" type="text" placeholder="Username" name="username" [(ngModel)]="username" #usernameInput="ngModel" required />
+      </div>
+      <div class="form-group">
+        <label for="passWordInput">Password:</label>
+        <input class="form-control" type="password" placeholder="Password" name="password" [(ngModel)]="password" #passwordInput="ngModel" required />
+      </div>
+      <button type="submit" class="btn btn-success pull-right ml-3">Login</button>
+      <button type="reset" class="btn btn-warning pull-right">Clear</button>
+    </form>
+  </div>
+</div>

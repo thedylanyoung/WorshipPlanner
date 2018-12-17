@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="ClientApp\src\app\login\" />
   </ItemGroup>
 
   <ItemGroup>
